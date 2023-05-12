@@ -1,0 +1,4 @@
+Build a Social Media App
+
+Assignment Description
+You are tasked with building a social media app using Object-Oriented Programming (OOP) concepts in JavaScript. Your app should allow users to create profiles, connect with friends, share content, and interact with other users. You should use the following OOP concepts in your 
